@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9260d2a-8bfa-485d-b309-a45040d29bd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Ball.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/ball.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/test.glb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(index)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(index)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +91,7 @@
       <updated>1725015695598</updated>
       <workItem from="1725015699494" duration="712000" />
       <workItem from="1725017200738" duration="10316000" />
-      <workItem from="1725027984517" duration="61000" />
+      <workItem from="1725027984517" duration="103000" />
     </task>
     <servers />
   </component>
