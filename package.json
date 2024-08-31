@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@artcom/react-three-arjs": "^0.5.5",
-    "@react-three/drei": "^9.111.4",
+    "@react-three/drei": "^9.111.5",
     "@react-three/fiber": "^8.17.6",
     "@types/three": "^0.167.2",
     "core-js": "^3.38.1",
