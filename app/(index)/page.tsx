@@ -1,15 +1,15 @@
-<<<<<<< Updated upstream
+
 "use client"
 import { extend } from '@react-three/fiber'
-import { BoxGeometry } from 'three' // 注意，BoxBufferGeometry 已经被重命名为 BoxGeometry
+import { BoxGeometry } from 'three'
 import { ARCanvas, ARMarker } from "@artcom/react-three-arjs"
-=======
->>>>>>> Stashed changes
+
+
 
 
 import dynamic from 'next/dynamic';
 
-// 動態導入 ARScene 組件並禁用 SSR
+
 const ARScene = dynamic(() => import('../../components/ARScene'), { ssr: false });
 
 

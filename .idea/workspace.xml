@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9260d2a-8bfa-485d-b309-a45040d29bd3" name="Changes" comment="">
-<<<<<<< Updated upstream
-      <change afterPath="$PROJECT_DIR$/public/Ball.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/ball.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/test.glb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(index)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(index)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/components/ARScene.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/data/camera_para.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/monkey.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/patt.hiro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(index)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(index)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
->>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +26,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-<<<<<<< Updated upstream
-=======
-    "ReactCreateComponentLastSelected": "arrowFunctionComponent",
->>>>>>> Stashed changes
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-<<<<<<< Updated upstream
     "last_opened_file_path": "/Users/wujunyan/Desktop/Taipei-just-a-moment/components",
-=======
-    "last_opened_file_path": "/Users/wujunyan/Desktop/Taipei-just-a-moment/app/(index)",
->>>>>>> Stashed changes
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,12 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/(index)" />
       <recent name="$PROJECT_DIR$/components" />
       <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/(index)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/data" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -111,14 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1725015695598</updated>
       <workItem from="1725015699494" duration="712000" />
-<<<<<<< Updated upstream
       <workItem from="1725017200738" duration="10164000" />
-=======
-      <workItem from="1725017200738" duration="10316000" />
-      <workItem from="1725027984517" duration="103000" />
-      <workItem from="1725083408454" duration="3337000" />
-      <workItem from="1725090096580" duration="6008000" />
->>>>>>> Stashed changes
+      <workItem from="1725246850764" duration="97000" />
     </task>
     <servers />
   </component>
