@@ -1,5 +1,5 @@
-import type { Metadata,Viewport } from 'next'
 
+import type { Metadata,Viewport } from 'next';
 import { ThemeProvider } from "./../components/theme-provider"
 
 export const viewport :Viewport= {
@@ -24,7 +24,9 @@ export default function RootLayout({
 
     return (
         <html lang="en" suppressHydrationWarning>
+
         <head />
+
         <body>
         <ThemeProvider attribute="class" defaultTheme="light" >
             <main className="">{children}</main>
