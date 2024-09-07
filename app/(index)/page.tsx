@@ -8,7 +8,7 @@ import { ARCanvas, ARMarker } from "@artcom/react-three-arjs"
 
 import dynamic from 'next/dynamic';
 
-// 動態導入 ARScene 組件並禁用 SSR
+
 const ARScene = dynamic(() => import('../../components/ARScene'), { ssr: false });
 
 
