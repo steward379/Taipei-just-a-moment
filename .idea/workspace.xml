@@ -55,6 +55,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7f0d08d (test)
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -70,6 +73,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/wujunyan/Desktop/Taipei-just-a-moment/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+<<<<<<< HEAD
 =======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -87,6 +91,8 @@
     "ts.external.directory.path": "/Users/wujunyan/Desktop/Taipei-just-a-moment/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
 >>>>>>> 3c4ea20 (fix : test)
+=======
+>>>>>>> 7f0d08d (test)
   }
 }</component>
   <component name="ReactDesignerToolWindowState">
@@ -151,7 +157,12 @@
 =======
       <workItem from="1725017200738" duration="10164000" />
       <workItem from="1725246850764" duration="97000" />
+<<<<<<< HEAD
 >>>>>>> b0b76f8 (fix : merge error)
+=======
+      <workItem from="1725371678421" duration="152000" />
+      <workItem from="1725682337506" duration="49000" />
+>>>>>>> 7f0d08d (test)
     </task>
     <servers />
   </component>

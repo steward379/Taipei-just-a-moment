@@ -15,7 +15,7 @@ const ARScene = dynamic(() => import('../../components/ARScene'), { ssr: false }
 
 export default function Index() {
     // const { scene } = useGLTF('/ball.glb')
-
+    console.log(123);
     return (
         <>
             <ARScene/>

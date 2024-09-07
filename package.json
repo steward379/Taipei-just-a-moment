@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ar-js-org/ar.js": "^3.4.5",
     "@artcom/react-three-arjs": "^0.5.5",
     "@react-three/drei": "^9.111.5",
     "@react-three/fiber": "^8.17.6",
